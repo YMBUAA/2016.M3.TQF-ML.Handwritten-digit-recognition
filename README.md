@@ -4,14 +4,13 @@
 The project is called handwritten digit recognition. It is the ability of a computer system to recognize the handwritten inputs such as digits in this project. The main goal is to use this project to get familiar with some popular methods in Machine Learning. KNN, SVM and RFC will be used in this project. Here is my [project proposal](Yin Ming_Proposal.pdf).
 
 ### 2.Dataset
-   The MNIST Database of handwriting digits.Four files are available on this site:
+The MNIST Database of handwriting digits.Four files are available on this site:
 * train-images-idx3-ubyte.gz:  training set images (9912422 bytes) 
 * train-labels-idx1-ubyte.gz:  training set labels (28881 bytes) 
 * t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes) 
 * t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes)
 
-### 3.Methods
-KNN, SVM and RFC are used to get the classifier accuracy and prediction accuracy.
+### 3.Methods：KNN, SVM and RFC are used to get the classifier accuracy and prediction accuracy.
 * [Python notebook file: KNN Classifier](KNN Method.ipynb)
 * [Python notebook file: SVM Classifier](SVM Method.ipynb)
 * [Python notebook file: RFC Classifier](Random Forest Classifier.ipynb)
