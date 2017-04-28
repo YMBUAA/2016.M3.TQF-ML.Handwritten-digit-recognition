@@ -24,7 +24,7 @@ KNN, SVM and RFC are used to get the classifier accuracy and prediction accuracy
 ### 4.Project Report
 Here is my project presentation. The report contains all details about the project and the results.
 
-[Project Presentation PPT: Report](Project Report.pdf)
+* [Project Presentation PPT: Report](Project Report.pdf)
 
 ### 5.Conclusion
 According to the results of the three methods, SVM has the highest training classifier accuracy and prediction accuracy. While SVM has the longest training and testing time as well.
