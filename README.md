@@ -4,7 +4,7 @@
 ### 1. Brief Project Description
 The project is called handwritten digit recognition. It is the ability of a computer system to recognize the handwritten inputs such as digits in this project. The main goal is to use this project to get familiar with some popular methods in Machine Learning. KNN, SVM and RFC will be used in this project. Here is my project proposal.
 
-* [Project Proposal](./Yin Ming_Proposal.pdf)
+* [Project Proposal](Yin Ming_Proposal.pdf)
 
 ### 2. Dataset
 The MNIST Database of handwriting digits.Four files are available on this site:
