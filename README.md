@@ -4,7 +4,7 @@
 ### 1. Brief Project Description
 The project is called handwritten digit recognition. It is the ability of a computer system to recognize the handwritten inputs such as digits in this project. The main goal is to use this project to get familiar with some popular methods in Machine Learning. KNN, SVM and RFC will be used in this project. Here is my project proposal.
 
-* [Project Proposal](Yin Ming_Proposal.pdf)
+* [Project Proposal](Yin%20Ming_Proposal.pdf)
 
 ### 2. Dataset
 The MNIST Database of handwriting digits.Four files are available on this site:
@@ -17,14 +17,14 @@ The MNIST Database of handwriting digits.Four files are available on this site:
 ### 3. Methods
 KNN, SVM and RFC are used to get the classifier accuracy and prediction accuracy.
 
-* [Python notebook file: KNN Classifier](KNN Method.ipynb)
-* [Python notebook file: SVM Classifier](SVM Method.ipynb)
-* [Python notebook file: RFC Classifier](Random Forest Classifier.ipynb)
+* [Python notebook file: KNN Classifier](KNN%20Method.ipynb)
+* [Python notebook file: SVM Classifier](SVM%20Method.ipynb)
+* [Python notebook file: RFC Classifier](Random%20Forest%20Classifier.ipynb)
 
 ### 4. Project Report
 Here is my project presentation. The report contains all details about the project and the results.
 
-* [Project Presentation PPT: Report](Project Report.pdf)
+* [Project Presentation PPT: Report](Project%20Report.pdf)
 
 ### 5. Conclusion
 According to the results of the three methods, SVM has the highest training classifier accuracy and prediction accuracy. While SVM has the longest training and testing time as well.
